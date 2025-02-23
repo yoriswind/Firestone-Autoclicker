@@ -111,7 +111,7 @@ accumulated_oracle_rituals_clicks = 0
 
 
 # Thresholds for trigger
-click_threshold = 250
+click_threshold = 72000
 firestone_percentage_threshold = 100
 go_back_level_counter = 0
 
